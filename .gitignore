@@ -1,0 +1,10 @@
+streamlit/
+__pycache__/
+flet/Include/
+flet/Lib/
+flet/Scripts/
+flet/googlethis/node_modules/
+flet/googlethis/package.json
+flet/googlethis/package-lock.json
+*.venv
+researchbot - Copy.py
